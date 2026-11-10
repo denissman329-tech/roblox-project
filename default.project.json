@@ -1,0 +1,28 @@
+{
+  "name": "roblox-project",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$className": "Workspace",
+      "Part": {
+        "$className": "Part",
+        "$properties": {
+          "Anchored": true,
+          "Size": [10.0, 1.0, 10.0],
+          "CFrame": [0.0, 0.5, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0],
+          "Color": [0.6392156862745098, 0.6352941176470588, 0.6470588235294118],
+          "Material": "Grass",
+          "TopSurface": "Smooth",
+          "BottomSurface": "Smooth"
+        }
+      }
+    },
+    "Lighting": {
+      "$className": "Lighting"
+    },
+    "Players": {
+      "$className": "Players"
+    }
+  }
+}
+

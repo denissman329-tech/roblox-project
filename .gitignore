@@ -1,0 +1,12 @@
+# Rojo / Roblox tool output
+*.rbxlx.lock
+*.rbxlx.bak
+
+# Toolchains
+/tools/bin/
+
+# Editor / OS
+.DS_Store
+*.swp
+
+
